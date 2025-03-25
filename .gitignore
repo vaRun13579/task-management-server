@@ -1,0 +1,13 @@
+# Node.js (Backend)
+/node_modules
+.env
+package-lock.json
+logs/
+debug.log
+temp/
+uploads/
+
+# SQLite database files
+*.sqlite
+*.sqlite3
+*.db-journal
